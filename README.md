@@ -1,5 +1,5 @@
 # 社区话题demo
-**此项目使用`Gin`+`Gorm`+`mysql` ，基于`RESTful API`实现的一个社区话题评论demo。
+**此项目使用`Gin`+`Gorm`+`mysql` ，基于`RESTful API`实现的一个社区话题评论demo。**
 
 ## 需求描述
 1. 支持发布帖子（增）
